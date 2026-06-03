@@ -35,3 +35,6 @@
   <li>2. Since Byfron threads are suspended and debug privileges are enabled, you can attach anything you like without crashing and being flagged</li>
   <li>3. This allows you to analyze assembly pseudo code of Roblox freely</li>
 </ul>
+
+<h1>Disclaimer</h1>
+<li>This repository and its contents are provided strictly for research, security analysis, and educational purposes regarding memory structures and anticheat mechanisms. I do not encourage, condone, or facilitate game cheating, or any form of illegal activity. By compiling the source code or using the provided executable to manipulate Roblox processes, you assume full responsibility for your actions. I am not liable for any damages that may arise during its usage. Users are solely responsible for ensuring compliance with third party terms of service and local laws, and any interaction with this software is done entirely at your own risk.</li>
